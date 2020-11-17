@@ -10,3 +10,8 @@ Here are few curves showing the performance of our model.
 Orange line - everyday stock price used for training.
 Green line - Predicted price of stock
 Red line - Actual price of stock
+
+![download](https://user-images.githubusercontent.com/44171241/99410315-53fd5f80-2918-11eb-8c70-fe269c10bfde.png)
+
+![download (1)](https://user-images.githubusercontent.com/44171241/99410362-65df0280-2918-11eb-84c0-d7220c07def2.png)
+
